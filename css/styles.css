@@ -15,8 +15,8 @@
   --blue: #0066cc;
   --blue-dark: #0055aa;
 
-  --display: "Anton", "Haettenschweiler", "Arial Narrow", Impact, sans-serif;
-  --sans: "Archivo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --display: "Commonsans", "Haettenschweiler", "Arial Narrow", Impact, sans-serif;
+  --sans: "Commonsans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --serif: Georgia, "Times New Roman", Times, serif;
 
   --pad: clamp(1rem, 4vw, 3rem);
