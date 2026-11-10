@@ -1,0 +1,15 @@
+# Exclude sensitive token files
+token hub.txt
+tokens.txt
+
+# Exclude PDF and other non-essential files
+*.pdf
+
+# Exclude environment variables
+.env
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
